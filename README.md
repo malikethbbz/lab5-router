@@ -1,6 +1,6 @@
 # Lab 5 - React Router + Material UI
 
-A01027383 - FJBG
+Proyecto que demuestra cómo usar **React Router** con **Material UI** para manejar autenticación básica y vistas protegidas.
 
 ## Requisitos
 - Node.js >= 16
