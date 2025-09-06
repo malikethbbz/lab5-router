@@ -24,8 +24,8 @@ Este proyecto es un ejemplo sencillo de cómo usar **React Router** con **Materi
 - `/dashboard` → Dashboard privado.
 - `/reports` → Reports privado.
 
-> Todas las rutas salvo `/login` están protegidas.  
-> Si no has iniciado sesión, cualquier intento de acceder redirige a `/login`.
+> Todas las rutas excepto `/login` están protegidas.  
+> Si no se ha iniciado sesión, cualquier intento de acceder redirige a `/login`.
 
 ## Credenciales por defecto
 - **Usuario:** `Oasis`  
