@@ -16,7 +16,7 @@ Este proyecto es un ejemplo sencillo de cómo usar **React Router** con **Materi
    ```bash
    npm run dev
    ```
-4. Abre la URL que aparezca en consola (por defecto `http://localhost:5173/`).
+4. Abre la URL que aparezca en consola (por default `http://localhost:5173/`).
 
 ## Vistas disponibles
 - `/login` → Pantalla de inicio de sesión.
@@ -27,7 +27,7 @@ Este proyecto es un ejemplo sencillo de cómo usar **React Router** con **Materi
 > Todas las rutas excepto `/login` están protegidas.  
 > Si no se ha iniciado sesión, cualquier intento de acceder redirige a `/login`.
 
-## Credenciales por defecto
+## Credenciales por default
 - **Usuario:** `Oasis`  
 - **Contraseña:** `2025`
 
@@ -48,7 +48,7 @@ const login = (user, pass) => {
 Para usar otros valores, simplemente reemplaza `"Oasis"` y `"2025"` por los datos que quieras.
 
 ## Logout
-En la barra superior (Header) hay un botón **Logout** que:
+En el Header hay un botón **Logout** que:
 - Cierra la sesión.
 - Limpia el estado guardado en `localStorage`.
 - Redirige automáticamente a `/login`.
