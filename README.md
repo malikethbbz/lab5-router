@@ -1,7 +1,5 @@
 # Lab 5 - React Router + Material UI
 
-Este proyecto es un ejemplo sencillo de cómo usar **React Router** con **Material UI** para manejar autenticación básica y vistas protegidas.
-
 ## Requisitos
 - Node.js >= 16
 - npm >= 8
